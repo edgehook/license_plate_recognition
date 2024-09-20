@@ -1,6 +1,6 @@
 # 车牌识别
 
-**车牌检测+车牌识别 看这里[车牌检测](https://github.com/edgehook/license_plate_detect.git)**
+**车牌检测 看这里[车牌检测](https://github.com/edgehook/license_plate_detect.git)**
 
 训练的时候 选择相应的cfg 即可选择模型的大小
 
